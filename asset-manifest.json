@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.459c8692.css",
+    "main.js": "./static/js/main.70f216ab.js",
+    "static/js/468.c3640975.chunk.js": "./static/js/468.c3640975.chunk.js",
+    "static/js/873.a1bdcf50.chunk.js": "./static/js/873.a1bdcf50.chunk.js",
+    "static/js/515.b7ed9ee1.chunk.js": "./static/js/515.b7ed9ee1.chunk.js",
+    "static/js/47.d0c5a89d.chunk.js": "./static/js/47.d0c5a89d.chunk.js",
+    "static/js/911.4fae39dc.chunk.js": "./static/js/911.4fae39dc.chunk.js",
+    "static/js/119.aaef316d.chunk.js": "./static/js/119.aaef316d.chunk.js",
+    "static/js/775.b4e7ed5d.chunk.js": "./static/js/775.b4e7ed5d.chunk.js",
+    "static/js/27.6980424d.chunk.js": "./static/js/27.6980424d.chunk.js",
+    "static/js/98.9885056b.chunk.js": "./static/js/98.9885056b.chunk.js",
+    "static/js/550.475ea5b2.chunk.js": "./static/js/550.475ea5b2.chunk.js",
+    "static/js/570.2c3ce686.chunk.js": "./static/js/570.2c3ce686.chunk.js",
+    "static/media/reservation_0.png": "./static/media/reservation_0.e8c68b03a7d9f42d740c.png",
+    "static/media/ecommerce.png": "./static/media/ecommerce.9e3a4f2a1e698bab58c3.png",
+    "static/media/ab-img.png": "./static/media/ab-img.fe317ef593c39e757164.png",
+    "static/media/Resume_2022.pdf": "./static/media/Resume_2022.2706fcf713168aed5c62.pdf",
+    "static/media/pos.png": "./static/media/pos.2784b1a37fee59ebeefe.png",
+    "static/media/14-13596-595.jpg": "./static/media/14-13596-595.eec720a1093b9d92c0ed.jpg",
+    "static/media/bms.png": "./static/media/bms.1bef5a92c369e1353d26.png",
+    "static/media/todos.png": "./static/media/todos.cb600aef5cab6d37e088.png",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.459c8692.css",
+    "static/js/main.70f216ab.js"
+  ]
+}
